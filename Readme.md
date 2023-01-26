@@ -10,3 +10,5 @@ Encoder incrémentale C02A012
 Guiddance Systems
 PC
 A belt and pulley transmission system
+
+![systéme globale](https://user-images.githubusercontent.com/40873969/214945519-acddac76-da23-4b91-b03f-df1c589b9c96.PNG)
