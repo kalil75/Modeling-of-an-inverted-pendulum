@@ -14,3 +14,12 @@ A belt and pulley transmission system
 Global System
 
 ![systéme globale](https://user-images.githubusercontent.com/40873969/214945519-acddac76-da23-4b91-b03f-df1c589b9c96.PNG)
+
+Block diagram
+![BLOCK SHEME](https://user-images.githubusercontent.com/40873969/214946754-a47ef493-b528-4757-9074-aa05f71df68c.PNG)
+
+Bond Graph
+![Bond graph](https://user-images.githubusercontent.com/40873969/214946813-bca31b5f-0837-4f61-9ab7-fdb3055e541d.PNG)
+
+
+
