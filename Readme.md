@@ -1,6 +1,7 @@
 Modeling and Realization of an inverted pendulum
 
 Principe
+
 keep a wooden rod in vertical balance.This rod is fixed by a pivoting joint on a carriage which can move by sliding along a horizontal guide rail.The rotational movement of an electric motor is transformed into translational movement of the carriage via a set of two pulleys and a toothed belt.The movement of the carriage in one direction or another ensures the vertical balance of the pendulum arm by reaction.In fact, this kind of mechanism is very useful (in robotique such as segway also in aerospatiale).
 
 ![pendule inversé_fritzing](https://user-images.githubusercontent.com/40873969/214943876-169945b4-8ac5-447e-993d-d7ec30519c82.PNG)
