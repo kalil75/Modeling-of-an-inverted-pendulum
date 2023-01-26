@@ -1,4 +1,4 @@
-Modeling and Realization of an inverted pendulum
+# Modeling and Realization of an inverted pendulum
 
 Principe
 
