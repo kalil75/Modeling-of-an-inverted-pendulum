@@ -27,5 +27,5 @@ Bond Graph
 
 ![Bond graph](https://user-images.githubusercontent.com/40873969/214946813-bca31b5f-0837-4f61-9ab7-fdb3055e541d.PNG)
 
-s
+
 
