@@ -13,9 +13,14 @@ Arduino UNO
 H Bridge L298N
 
 DC Motor 12v
+
 Encoder incrémentale C02A012
+
 Guiddance Systems
+
 PC
+
+
 A belt and pulley transmission system
 
 #Global System
